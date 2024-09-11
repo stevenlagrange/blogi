@@ -15,5 +15,5 @@ export default defineConfig({
     ],
     output: 'static',
     site: 'https://stevenlagrange.github.io',
-    //base: 'blogi',
+    base: '/blogi',
 });
