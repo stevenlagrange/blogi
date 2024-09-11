@@ -13,7 +13,7 @@ export default defineConfig({
             applyBaseStyles: false
         })
     ],
-    output: 'static',
+    //output: 'static',
     site: 'https://stevenlagrange.github.io',
     base: '/blogi',
 });
